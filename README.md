@@ -31,7 +31,7 @@
 
 Name | Value
 -|-
-BDUSS | xxxxxxxxxxx
+BDUSS | xxxxxxxxxx
 
 将上一步骤获取到的`BDUSS`粘贴到`Secrets`中
 
